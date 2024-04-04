@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/touhidurrr/iplist-youtube/main/ipv4_list.txt
+https://raw.githubusercontent.com/touhidurrr/iplist-youtube/main/ipv6_list.txt
